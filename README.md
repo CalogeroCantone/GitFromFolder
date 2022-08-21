@@ -12,7 +12,7 @@
 
 - Confermare l'aggiunta
 ```
-    git commit -m "Primo commit"
+    git commit -m "Initial commit."
 ```
  
 ## Caricare su GitHub
@@ -21,5 +21,5 @@
 
 - Caricare sulla *repository*
 ```  
-    git push --set-upstream **repositoryURL** master
+    git push --set-upstream **repositoryURL** main
 ```  
